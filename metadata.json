@@ -1,0 +1,5 @@
+{
+  "name": "CardOS",
+  "description": "A macOS-styled Zettelkasten card writing application with specialized card types, tagging, and calendar integration.",
+  "requestFramePermissions": []
+}
